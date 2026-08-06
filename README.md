@@ -2,10 +2,6 @@
 
 一个参考竖屏饮品整理玩法制作的可交互网页小游戏。无需安装，打开网页即可游玩。
 
-## 在线试玩
-
-GitHub Pages：<https://adderal-3.github.io/school-open/>
-
 ## 已实现
 
 - 托盘遮挡与逐层解锁
@@ -32,4 +28,3 @@ cd game
 npm run test:game
 npm run build:pages
 ```
-
