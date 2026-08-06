@@ -1,0 +1,20 @@
+# Large local references
+*.mp4
+reference/
+
+# Dependencies and builds
+node_modules/
+dist/
+dist-pages/
+
+# Local preview and QA artifacts
+*.log
+game/implementation-*.png
+game/design-comparison-*.png
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
