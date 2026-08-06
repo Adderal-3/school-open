@@ -23,3 +23,4 @@ export const DRINKS: Record<
 
 export const SOURCE_CAPACITY = 3;
 export const TRAY_CAPACITY = 6;
+export const LEVEL_SALES_TARGET = 6; // One sale for each drink type in this level.
